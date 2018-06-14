@@ -1,2 +1,3 @@
-# project
-CSCW 2018 Projects
+# link to the chitchat project (public repository)
+
+https://github.com/jakerothwell/Slack-Bot
